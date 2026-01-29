@@ -1,0 +1,8 @@
+{
+  "name": "Queen Hair Beauty Center",
+  "description": "Premium salon web app with AI Beauty Try-On Studio, booking system, and bilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
